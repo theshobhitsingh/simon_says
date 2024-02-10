@@ -1,0 +1,75 @@
+body {
+  background: #000428;
+  background: -webkit-linear-gradient(to right, #004e92, #000428);
+  background: linear-gradient(to right, #004e92, #000428);
+  font-family: "Arial", sans-serif;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 50px;
+}
+
+.btn {
+  border: 8px solid #333;
+  border-radius: 50%;
+  height: 200px;
+  width: 200px;
+  background-color: #fff;
+  margin: 10px;
+  cursor: pointer;
+  transition: background-color 0.3s ease, transform 0.2s ease;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+}
+
+.btn:active {
+  transform: scale(0.95);
+}
+
+.red {
+  background-color: #e53935;
+}
+
+.green {
+  background-color: #43a047;
+}
+
+.yellow {
+  background-color: #fbc02d;
+}
+
+.blue {
+  background-color: #1e88e5;
+}
+
+.flash {
+  background-color: whitesmoke;
+}
+
+.userFlash {
+  background-color: #2d1940;
+}
+
+h1,
+h2 {
+  margin: 20px;
+  color: #fff;
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+@media screen and (max-width: 768px) {
+  .btn {
+    height: 150px;
+    width: 150px;
+    font-size: 16px;
+  }
+}
