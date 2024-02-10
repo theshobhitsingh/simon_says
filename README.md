@@ -27,7 +27,7 @@ To play the game locally, follow these steps:
 2. Open the `index.html` file in your preferred web browser.
 
 ## Live Demo
-You can play a live demo of the game here 
+You can play a live demo of the game here (https://theshobhitsingh.github.io/simon_says).
 
 ## Contributing
 Contributions are welcome! If you have ideas for improvements or encounter any issues, please open an issue or submit a pull request.
