@@ -30,6 +30,8 @@ To play the game locally, follow these steps:
 You can play a live demo of the game here (https://theshobhitsingh.github.io/simon_says).
 
 ## Contributing
-Contributions are welcome! If you have ideas for improvements or encounter any issues, please open an issue or submit a pull request.
-
+Contributions are welcome! If you have ideas for improvements or encounter any issues, please open an issue or submit a pull request.<br>
 Enjoy playing Simon Says! If you have any questions or feedback, feel free to reach out.
+
+# Developer
+***Shobhit Singh***
